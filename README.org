@@ -1,10 +1,10 @@
 * Fall 2021 235 Pointer Maze
 
-* Last name:
+* Last name: Aidonis
 
-* First name:
+* First name: Alexandros 
 
-* GitHub username:
+* GitHub username: alexaid123
 
 * Notes:
 
