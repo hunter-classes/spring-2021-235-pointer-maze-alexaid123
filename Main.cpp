@@ -39,15 +39,15 @@ int main() {
      * Note: Don't set a breakpoint on this line. Otherwise, you'll see twistyStartLocation before
      * it's been initialized.
      */
-    MazeCell* twistyStartLocation = twistyMazeFor(kYourName);
+   //MazeCell* twistyStartLocation = twistyMazeFor(kYourName);
     
     /* Set a breakpoint here to explore your twisty maze! */
     
-    if (isPathToFreedom(twistyStartLocation, kPathOutOfTwistyMaze)) {
+    /*if (isPathToFreedom(twistyStartLocation, kPathOutOfTwistyMaze)) {
         std::cout << "Congratulations! You've found a way out of your twisty labyrinth." << std::endl;
     } else {
         std::cout << "Sorry, but you're still stuck in your twisty labyrinth." << std::endl;
-    }
+    }*/
     
     return 0;
 }
